@@ -1,0 +1,108 @@
+{
+	"window.menuBarVisibility": "toggle",
+	"workbench.startupEditor": "none",
+	"files.autoSave": "afterDelay",
+	"editor.fontFamily": "'Dank Mono', 'Shabnam Light'",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontLigatures": true,
+	"editor.fontWeight": "normal",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.linkedEditing": true,
+	"terminal.integrated.defaultProfile.linux": "zsh",
+	"terminal.integrated.sendKeybindingsToShell": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"update.mode": "none",
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.smoothScrolling": true,
+	"editor.cursorBlinking": "expand",
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.quickSuggestions": true,
+	"editor.quickSuggestionsDelay": 0,
+	"workbench.list.smoothScrolling": true,
+	"workbench.tree.indent": 21,
+	"workbench.tree.renderIndentGuides": "always",
+	"breadcrumbs.enabled": false,
+	"window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+	"window.zoomLevel": 1,
+	"extensions.autoCheckUpdates": false,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.drawBoldTextInBrightColors": false,
+	"terminal.integrated.fontFamily": "'Fira Code', 'Shabnam Light'",
+	"terminal.integrated.fontWeight": "normal",
+	"terminal.integrated.fontWeightBold": "normal",
+	"terminal.integrated.lineHeight": 0,
+	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false,
+	"better-comments.highlightPlainText": true,
+	"emmet.showSuggestionsAsSnippets": true,
+	"html-css-class-completion.enableEmmetSupport": true,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "/public/css"
+		},
+		{
+			"format": "compressed",
+			"extensionName": ".min.css",
+			"savePath": "/public/css"
+		}
+	],
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"liveSassCompile.settings.generateMap": false,
+	"material-icon-theme.folders.color": "#cccccc",
+	"material-icon-theme.hidesExplorerArrows": true,
+	"path-intellisense.autoSlashAfterDirectory": true,
+	"path-intellisense.extensionOnImport": true,
+	"path-intellisense.showHiddenFiles": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"explorer.confirmDelete": false,
+	"editor.hover.delay": 0,
+	"workbench.hover.delay": 0,
+	"workbench.sash.hoverDelay": 0,
+	"bracketPairColorizer.showBracketsInGutter": true,
+	"bracketPairColorizer.showBracketsInRuler": true,
+	"terminal.integrated.profiles.linux": {
+		"bash": {
+			"path": "bash"
+		},
+		"zsh": {
+			"path": "zsh"
+		},
+		"fish": {
+			"path": "fish"
+		},
+		"tmux": {
+			"path": "tmux",
+			"icon": "terminal-tmux"
+		},
+		"pwsh": {
+			"path": "pwsh",
+			"icon": "terminal-powershell"
+		},
+		"zsh (2)": {
+			"path": "/usr/bin/zsh"
+		}
+	},
+	"terminal.integrated.confirmOnExit": true,
+	"workbench.colorTheme": "Gruvbox Dark Hard",
+	"update.showReleaseNotes": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"diffEditor.wordWrap": "off",
+	"editor.lineNumbers": "relative",
+	"editor.suggest.insertMode": "replace",
+	"editor.fontSize": 16,
+	"editor.minimap.enabled": false
+}
